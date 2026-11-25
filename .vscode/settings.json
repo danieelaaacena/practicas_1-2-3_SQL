@@ -1,0 +1,23 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sandbox",
+            "database": "sandbox.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "moviebig",
+            "database": "/Users/danielaacenaserrano/Downloads/bbdd/moviebig.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "movibig_2.0",
+            "database": "/Users/danielaacenaserrano/Downloads/bbdd/moviebig.db"
+        }
+    ]
+}
